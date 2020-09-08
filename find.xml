@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'DirectReportManagement.HttpApi.Host'" />
+    <option name="defaultScopeName" value="Project 'DirectReportManagement.HttpApi.Host'" />
+    <option name="SEARCH_SCOPE" value="Project 'DirectReportManagement.HttpApi.Host'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
