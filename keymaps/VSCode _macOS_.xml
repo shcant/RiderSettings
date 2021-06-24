@@ -1,0 +1,6 @@
+<keymap version="1" name="VSCode (macOS) " parent="VSCode OSX">
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
+</keymap>
