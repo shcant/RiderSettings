@@ -39,5 +39,6 @@
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
     <entry key="light.edit.file.open.enabled" value="false" />
     <entry key="rider.enable.designer.winForms" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
