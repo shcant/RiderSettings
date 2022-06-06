@@ -1,5 +1,7 @@
 <application>
   <component name="DatabaseSettings" version="7">
+    <option name="page-size" value="1000" />
+    <option name="page-size-updated-timestamp" value="1654482124912" />
     <option name="warn-unsafe-query" value="false" />
     <option name="ddl-editor-confirm-loss" value="false" />
     <text-mode>
