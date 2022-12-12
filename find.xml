@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Prometheus.EntityFramework'" />
+    <option name="defaultScopeName" value="Project 'Prometheus.EntityFramework'" />
+    <option name="SEARCH_SCOPE" value="Project 'Prometheus.EntityFramework'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
